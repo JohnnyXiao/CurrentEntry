@@ -1,2 +1,3 @@
 【备忘】 
   1.重构p2p Android Demo，增加频道列表支持从服务器拉取json格式的频道信息，支持硬软解切换。
+  2.重新编译ijkplayer的so，目前的so只能跑在Android 5.0以后的系统，解决该限制。
